@@ -1,0 +1,9 @@
+.SearchBarWrapper {
+    text-align: center;
+    padding-top: 18px;
+    margin-left: 24px;
+}
+
+.SearchBar {
+    width: 50%;
+}
