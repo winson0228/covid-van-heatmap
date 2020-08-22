@@ -5,8 +5,6 @@ class AlertForm extends React.Component {
         super(props);
         this.state = {date: new Date()};
     }
-
-    // Should be another page or another component below the map in app container
     
     render() {
       return (

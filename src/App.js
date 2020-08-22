@@ -7,7 +7,6 @@ import { Container, Grid, Image, Segment } from 'semantic-ui-react'
 
 function App() {
   return (
-    // TODO: More styling on layout
     <AppContainerLayer />
   );
 }
